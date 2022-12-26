@@ -2,7 +2,7 @@
   "actions" : {
     "build" : {
       "enabled" : true,
-      "script" : "npm run build"
+      "script" : "npm run build\nnpm run deploy"
     },
     "run" : {
       "enabled" : true,
